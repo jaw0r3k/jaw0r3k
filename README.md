@@ -39,10 +39,10 @@
 <details name="Statystyki">
   <summary>:zap: Statystyki GitHub</summary>
 
- <a href="">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw0r3k"/></a> <br/>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw0r3k"/></a> <br/>
 
 </details>
-  <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=jaw0r3k&hide=contribs,prs"/> </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jaw0r3k&hide=contribs,prs"/> </a>
 
 [readme]: https://github-readme-stats.vercel.app
 [discord]: https://discord.com/users/693055800322818149
