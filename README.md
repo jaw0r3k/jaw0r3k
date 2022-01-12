@@ -5,17 +5,16 @@
 <a href="https://code.visualstudio.com" target="_blank"><img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 
 <a href="https://www.eclipse.org" target="_blank"><img align="left" alt="Eclipse" width="26px" src="https://i.wpimg.pl/1000x/img.dobreprogramy.pl/Images/ToolIcon/2382/20141104145446_0.png"/></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+
+<a href="https://www.reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+<a href="https://discord.js.org"><img align="left" alt="Discord.js" width="26px" src="https://user-images.githubusercontent.com/77631315/110176624-e6603b00-7e03-11eb-8a2f-447e50e47276.png"/></a>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 
-
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-
-<a href="https://www.reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://discord.js.org"><img align="left" alt="Discord.js" width="26px" src="https://user-images.githubusercontent.com/77631315/110176624-e6603b00-7e03-11eb-8a2f-447e50e47276.png"/></a>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></a>
