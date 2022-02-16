@@ -1,6 +1,6 @@
-### Cześć jestem [Jaworek][discord] 👋
+### Hi I am [Jaworek][discord] 👋
 
-### Języki i narzędzia:
+### Langues and tools:
 
 <a href="https://code.visualstudio.com" target="_blank"><img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 
@@ -16,7 +16,7 @@
 <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-
+<a href="https://go.dev"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></a>
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
