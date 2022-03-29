@@ -37,7 +37,7 @@
 <br />
 <br />
 <details name="Statystyki">
-  <summary>:zap: Statystyki GitHub</summary>
+  <summary>:zap: Github Stats</summary>
 
  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw0r3k"/></a> <br/>
 
