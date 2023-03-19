@@ -1,17 +1,19 @@
 ### Hi I am [Jaworek][discord] 👋
 
 I would intoduce myself but i am too lazy
-- Contributor of discord.js
+- Contributor of [discord.js]
 - Currently learning c#
 
-<details name="Statystyki">
-  <summary>:zap: Github Stats</summary>
 
- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw0r3k"/></a> <br/>
-
-</details>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jaw0r3k&hide=contribs,issues&show_icons=true&theme=dark"/> </a>
-
-[readme]: https://github-readme-stats.vercel.app
 [discord]: https://discord.com/users/693055800322818149
-
+[discord.js]: https://github.com/discordjs/discord.js
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaw0r3k&hide_progress=true&theme=dark" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="#"> <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=jaw0r3k&hide=contribs,issues&show_icons=true&theme=dark"/> </a>
+    </td>
+  </tr>
+</table>
