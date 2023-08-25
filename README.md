@@ -2,7 +2,7 @@
 
 I would intoduce myself but i am too lazy 🦥
 - Contributor of [discord.js]
-- Currently learning go
+- Currently learning c++
 
 
 [discord]: https://discord.com/users/693055800322818149
