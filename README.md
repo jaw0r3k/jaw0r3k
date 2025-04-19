@@ -1,9 +1,6 @@
-### Hi I am [Jaworek][discord] 👋
+### Yo I am [Jaworek][discord]!
 
 I would intoduce myself but i am too lazy 🦥
-- Contributor of [discord.js]
-- Currently learning c++
-
 
 [discord]: https://discord.com/users/693055800322818149
 [discord.js]: https://github.com/discordjs/discord.js
